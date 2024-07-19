@@ -14,7 +14,7 @@ Additionally, Tukey's HSD (Honestly Significant Difference) test is applied for 
 ## Files
 
 - **facorial_3by3_ANOVA_Tukey_3d.html**: Python code through html containing the entire analysis pipeline.
-# To see the content of this file, you need to doenload it locally and open it with any web browser
+# To see the content of this file, you need to download it locally and open it with any web browser
 - **readMe_python.md**: This file, providing an overview and explanation of the code.
 
 ---
